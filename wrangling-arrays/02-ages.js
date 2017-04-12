@@ -20,7 +20,7 @@ recall:
 
 */
 
-const output = require('./lib/output');
+const output = require('../lib/output');
 const users = require('./users.json');
 
 // show the users data
