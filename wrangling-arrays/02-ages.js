@@ -28,10 +28,6 @@ output(users);
 
 // for loop to calculate ages
 // let sumAges = 0;
-
-// for (let i = 0; i < users.length; i++) {
-//   const { age } = users[i];
-//   sumAges += age;
-// }
+// const ages = users.map(user => user.age).forEach(age => sumAges += age);
 
 // output({ averageAge: sumAges / users.length })
