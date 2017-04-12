@@ -14,6 +14,10 @@ example user object:
   "age": 48
 }
 
+recall:
+  map is used for 1:1 data transomation
+  reduce is used for 1:n data transformation
+
 */
 
 const output = require('./lib/output');
