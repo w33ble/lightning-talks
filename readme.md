@@ -11,3 +11,6 @@ Curently focused on Javascript (browser and node.js), but not neccessarily limit
 - [ ] You might not need Lodash
 - [ ] ES6 syntax, just the basics
 - [ ] Getting started with Express.js
+- [ ] Getting started with Hapi.js
+- [ ] What the heck is Serverless?
+- [ ] What the heck are Web Workers?
